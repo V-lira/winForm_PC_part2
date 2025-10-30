@@ -169,13 +169,13 @@ namespace WinFormsApp17
             switch (dud.Text)
             {
                 case 
-                "Intel": imageName = "C:\\Users\\Лерок\\Downloads\\intel.jpg"; 
+                "Intel": imageName = "C:\\Users\\a\\Downloads\\intel.jpg"; 
                     break;
                 case 
-                "AMD": imageName = "C:\\Users\\Лерок\\Downloads\\amd.jpg"; 
+                "AMD": imageName = "C:\\Users\\a\\Downloads\\amd.jpg"; 
                     break;
                 case 
-                "Apple": imageName = "C:\\Users\\Лерок\\Downloads\\apple.jpg"; 
+                "Apple": imageName = "C:\\Users\\a\\Downloads\\apple.jpg"; 
                     break;
             }
             try
@@ -295,4 +295,5 @@ namespace WinFormsApp17
             list.TopIndex = list.Items.Count - 1;
         }
     }
+
 }
